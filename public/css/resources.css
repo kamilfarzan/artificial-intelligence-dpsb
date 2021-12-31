@@ -74,7 +74,7 @@ header {
 
 .synapse-logo {
   cursor: pointer;
-  width: 100%;
+  width: 72.5%;
 }
 
 .mainmenu {
@@ -157,7 +157,6 @@ button.reg-btn:hover {
   margin-bottom: 20px;
   font-size: 4rem;
   font-weight: 700;
-  text-shadow: 1px 1px 10px black;
 }
 
 @media only screen and (max-width: 680px) {

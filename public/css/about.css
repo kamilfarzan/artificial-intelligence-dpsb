@@ -71,7 +71,7 @@ header {
 
 .synapse-logo {
   cursor: pointer;
-  width: 100%;
+  width: 72.5%;
 }
 
 .mainmenu {
@@ -148,7 +148,7 @@ button.reg-btn:hover {
 
 .section-one .section-text .title {
   font-family: "Montserrat", monospace;
-  font-weight: 1000;
+  font-weight: 700;
   font-size: 4em;
   line-height: 120%;
   margin-bottom: 20px;
