@@ -11,7 +11,7 @@ Made using [Ejs](https://ejs.co/), [Express](https://expressjs.com/) and [Passpo
 `bash` in a Folder:
 
 ```bash
-git clone https://github.com/kmlfrzn/artificial-intelligence-dpsb
+git clone https://github.com/kmlfrzn/artificial-intelligence-dpsb.git
 ```
 
 ## Usage
