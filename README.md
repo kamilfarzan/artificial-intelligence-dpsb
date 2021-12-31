@@ -1,6 +1,7 @@
 # Artificial Intelligence Website
 
 Made for DPS Bulandshahr 2021, Web Page Designing.
+node_modules and env have been omitted.
 
 ## Preface
 
